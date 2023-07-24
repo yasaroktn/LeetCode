@@ -1,2 +1,1 @@
-# LeetCode
-my leetcode studies
+# LeetCodegit 
