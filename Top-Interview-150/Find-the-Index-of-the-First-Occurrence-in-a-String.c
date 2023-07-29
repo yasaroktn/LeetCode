@@ -16,9 +16,7 @@ int strStr(char * haystack, char * needle){
     while (haystack[i])
     {
         if (control(haystack, needle, i))
-        {
             return (i);
-        }
         i++;
     }
     return (-1);
